@@ -1,24 +1,116 @@
-This is free and unencumbered software released into the public domain.
+￶ ￶, [23.07.2025 23:17]
+EXTENDED END USER LICENSE AGREEMENT (EULA)
+For TextureCreate and TextureCreateLauncher — developed by XGroup
 
-Anyone is free to copy, modify, publish, use, compile, sell, or
-distribute this software, either in source code form or as a compiled
-binary, for any purpose, commercial or non-commercial, and by any
-means.
+Last updated: July 23, 2025
 
-In jurisdictions that recognize copyright laws, the author or authors
-of this software dedicate any and all copyright interest in the
-software to the public domain. We make this dedication for the benefit
-of the public at large and to the detriment of our heirs and
-successors. We intend this dedication to be an overt act of
-relinquishment in perpetuity of all present and future rights to this
-software under copyright law.
+PLEASE READ THIS AGREEMENT CAREFULLY BEFORE INSTALLING OR USING TEXTURECRAFT.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
-OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
-ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE.
+By downloading, installing, copying, or otherwise using TextureCreate and associated tools (e.g., TextureCreateLauncher), you agree to be bound by the terms of this End User License Agreement ("EULA" or "Agreement") set forth below.
 
-For more information, please refer to <https://unlicense.org>
+────────────────────────────────────────
+1. DEFINITIONS
+────────────────────────────────────────
+• "Software" refers to the TextureCreate application, TextureCreateLauncher, related tools, libraries, project templates, resource packs, and update services.
+• "XGroup" refers to the legal owner/developer of the Software.
+• "User", "You", or "Your" refers to the individual or entity using the Software.
+
+────────────────────────────────────────
+2. LICENSE GRANT
+────────────────────────────────────────
+XGroup grants you a personal, limited, non-transferable, non-exclusive, revocable license to install and use the Software on your personal devices for non-commercial use, subject to the restrictions below.
+
+You may:
+• Install and use the Software on one or more devices for personal projects.
+• Create and manage custom texture/resource packs.
+• Share exported packs, as long as you credit TextureCreate and do not include the executable files.
+
+────────────────────────────────────────
+3. INTELLECTUAL PROPERTY
+────────────────────────────────────────
+All intellectual property rights in and to the Software and documentation remain exclusively with XGroup. You may not claim authorship, redistribute, or reuse core files, components, or branding of the Software without explicit permission.
+
+All trademarks, trade names, logos, and other identifiers are the exclusive property of XGroup.
+
+────────────────────────────────────────
+4. USAGE RESTRICTIONS
+────────────────────────────────────────
+You may NOT:
+• Reverse engineer, modify, decompile, or attempt to extract the source code.
+• Circumvent licensing, payment systems, or activation mechanisms.
+• Use the Software for any unlawful, defamatory, or harmful purpose.
+• Share the application’s .exe or source files without explicit permission.
+• Remove or alter any copyright or license notices.
+
+────────────────────────────────────────
+5. PREMIUM VERSIONS
+────────────────────────────────────────
+Some features may be available only through a paid "Pro" or "Premium" version. You may not:
+• Bypass premium feature restrictions.
+• Share or use cracked versions of the Software.
+• Attempt to disable any upgrade check or subscription mechanism.
+
+────────────────────────────────────────
+6. ANALYTICS AND DIAGNOSTICS
+────────────────────────────────────────
+TextureCreate may collect limited anonymous usage data to improve performance, stability, and usability. This includes crash logs, version checks, and non-personal configuration details.
+
+No personal or sensitive user data is collected.
+
+────────────────────────────────────────
+7. UPDATES AND PATCHES
+────────────────────────────────────────
+XGroup may release updates to fix bugs, improve features, or enhance compatibility. By installing updates, you accept the terms of this EULA for those updates as well.
+
+Updates may be required to continue using certain features.
+
+────────────────────────────────────────
+8. OPEN-SOURCE COMPONENTS
+────────────────────────────────────────
+Some libraries used in TextureCreate may be licensed under open-source licenses (MIT, Apache 2.0, etc.). A complete list can be found in the "third_party_licenses" directory.
+
+Such components remain the property of their respective authors.
+
+────────────────────────────────────────
+9. COMMUNITY AND CONTENT SHARING
+────────────────────────────────────────
+You are encouraged to share textures, styles, and project files publicly. However:
+• Do not upload or share illegal or copyrighted materials.
+• Respect the work of other creators.
+• Moderators or the XGroup team may remove content or restrict access for violations.
+
+￶ ￶, [23.07.2025 23:17]
+────────────────────────────────────────
+10. TERMINATION
+────────────────────────────────────────
+This license is effective until terminated. Your rights under this license will terminate automatically if you fail to comply with its terms. Upon termination, you must uninstall and destroy all copies of the Software.
+
+────────────────────────────────────────
+11. DISCLAIMER OF WARRANTIES
+────────────────────────────────────────
+The Software is provided "AS IS" without warranties of any kind. XGroup does not guarantee error-free operation or fitness for a particular purpose.
+
+────────────────────────────────────────
+12. LIMITATION OF LIABILITY
+────────────────────────────────────────
+In no event shall XGroup be liable for damages (including loss of data, interruption of service, or legal issues) arising out of the use or inability to use the Software.
+
+────────────────────────────────────────
+13. SUPPORT
+────────────────────────────────────────
+Basic support is provided via email or Telegram. Priority support is only available to Premium users. The team may refuse to provide support for outdated or modified versions.
+
+────────────────────────────────────────
+14. GOVERNING LAW
+────────────────────────────────────────
+This Agreement shall be governed in accordance with international copyright law and the laws of the developer's country of residence.
+
+────────────────────────────────────────
+15. CONTACT
+────────────────────────────────────────
+XGroup Official Support:
+Telegram: @XGroup_Help
+
+────────────────────────────────────────
+
+© 2025 XGroup. All rights reserved. Unauthorized distribution or duplication is strictly prohibited.
