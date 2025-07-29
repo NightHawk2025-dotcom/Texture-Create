@@ -1,0 +1,69 @@
+About TextureCreate
+Version 1.0.0
+
+TextureCreate is a professional texture editing tool designed for game developers and digital artists, with specialized support for Minecraft texture packs. Developed by XGroup, it combines intuitive design with powerful features for seamless texture creation and optimization.
+
+🔹 Key Features (v1.0.0)
+✅ Advanced Texture Editor
+
+Layer-based editing (Photoshop-style)
+
+Tools: Brushes, gradients, transforms (scale/rotate)
+
+Supports PNG, JPEG, TGA, DDS formats
+
+✅ Minecraft Integration
+
+Auto-generate texture packs for Java/Bedrock Edition
+
+Built-in templates for blocks/items/entities
+
+One-click export to Minecraft folders
+
+✅ Smart Configuration System
+
+Categorized settings: General, Editor, Export, Minecraft, Advanced
+
+Real-time theme/language switching (no restart required)
+
+Dark/Light themes + multilingual UI (EN, UA)
+
+✅ Under the Hood
+
+Modular architecture (GUI, API, Utilities)
+
+Centralized ConfigManager for user preferences
+
+Dynamic translation system with Translator class
+
+🔹 Technical Specifications
+Version: 1.0.0 (Stable)
+
+License: MIT (Open Source)
+
+Platforms: Windows
+
+🔹 What’s New?
+For Users:
+
+Redesigned UI with sidebar navigation
+
+Dynamic theme/language updates
+
+Organized settings with tabbed categories
+
+For Developers:
+
+Decoupled components for easy maintenance
+
+Comprehensive logging system
+
+Scalable structure for future features
+
+🔹 Credits
+Developed with ❤️ by XGroup – pushing creative tools forward.
+
+📧 Support: https://t.me/XGroup_Help
+🌐 Telegram: https://t.me/TextureCreate_Official
+
+© 2025 XGroup. All rights reserved.
